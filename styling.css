@@ -29,7 +29,6 @@ body{
 
 .dot{
     border-radius: 50%;
-    background-color: rgb(255, 0, 0);
     width: 30px;
     height: 30px;
     z-index: 2;
@@ -89,21 +88,26 @@ body{
 0%{
     position: relative;
     bottom: 220px;
+    background-color: rgb(255, 0, 0);
 }
 25%{
     position: relative;
     bottom:0px;
+    background-color: rgb(255, 0, 0);
 }
 50%{
     position: relative;
     bottom: -220px;
+    background-color: rgb(255, 0, 0);
 }
 75%{
     position: relative;
     bottom: 0px;
+    background-color: rgb(255, 0, 0);
 }
 100%{
     position: relative;
     bottom: 220px;
+    background-color: rgb(255, 0, 0);
 }
 }
